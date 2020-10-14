@@ -1,1 +1,1 @@
-System.out.prankln("Good Bye");
+System.out.println("Good Bye");
